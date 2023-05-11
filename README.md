@@ -1,2 +1,2 @@
 # KitzyaReyes.github.io
-Google Clon using HTML and CSS with Bootstrap - Bootcamp Thecnolochicaspro.
+Google Clon using HTML and CSS - Bootcamp Thecnolochicaspro.
