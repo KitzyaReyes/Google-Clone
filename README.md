@@ -2,10 +2,10 @@
 ###### ✨ Creado con HTML y CSS3 en el bootcamp de Tecnolochicaspro ✨
 
 ## INDICE 
-* Intro ()
-* ¿Que construi? ()
-* Objetivo del Proyecto ()
-* Link al Demo! ()
+* [Intro](https://github.com/KitzyaReyes/Google-Clone/blob/main/README.md#%EF%B8%8F-intro)
+* [¿Que construi?](https://github.com/KitzyaReyes/Google-Clone/blob/main/README.md#que-construi)
+* [Objetivo del Proyecto](https://github.com/KitzyaReyes/Google-Clone/blob/main/README.md#objetivo-del-proyecto-)
+* [Link al Demo!](https://github.com/KitzyaReyes/Google-Clone/blob/main/README.md#link-al-demo-)
 
 ***
 
@@ -26,6 +26,6 @@ El proyecto de esta enfocado en la construccion de la interfaz de Google, tomand
 Aprender a utilizar las etiquetas de HTML y las propiedades de CSS3, asi como identificar componentes base de un sitio web, para analizarlas y replicarlas. 
 
 ## ¡Link al Demo! 🌞🌈
-Visualiza mi proyecto terminado aqui! [Clonacion de Google](https://kitzyareyes.github.io/Google-Clone/)
+Visualiza mi proyecto terminado aqui! 👉 [Clonacion de Google](https://kitzyareyes.github.io/Google-Clone/)
 
 
