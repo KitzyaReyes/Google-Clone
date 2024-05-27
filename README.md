@@ -1,5 +1,5 @@
 # Clonacion de la interfaz de Google.
-###### ✨ Creado con HTML y CSS3 en el bootcamp de Tecnolochicaspro ✨
+###### ✨ Creado con HTML y CSS3 ✨
 
 ## INDICE 
 * [Intro](https://github.com/KitzyaReyes/Google-Clone/blob/main/README.md#%EF%B8%8F-intro)
